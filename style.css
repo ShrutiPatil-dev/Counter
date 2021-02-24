@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(161, 221, 221);
+}
+
+.main p{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(208, 217, 224);
+    box-shadow: 1px 2px rgb(19, 19, 36) ;
+}
+
+.counter{
+    text-align: center;
+    margin-top:100px;
+    
+
+}
+
+.counter h1{
+    font-size: 40px;
+}
+
+.button{
+    text-align: center;
+    border:none;
+    
+}
+
+
+.button button{
+    background-color: transparent;
+    border:2px solid rgb(41, 4, 4);
+    color:rgb(41, 4, 4);
+    font-size: 15px;
+    height:40px;
+    width:80px;
+    margin:10px;
+    margin-top:50px;
+
+
+}
